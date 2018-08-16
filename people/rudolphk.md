@@ -8,7 +8,7 @@ I am a full stack developer / web consultant / part-time lecturer with over 13 y
 
 Main area's of expertise:
 
-- .NET
+- .NET / ServiceStack
 - Node.js
 - Vue.js
 - PHP
@@ -16,6 +16,8 @@ Main area's of expertise:
 - Angular
 - Web Development
 - Umbraco
+- MS SQL / MySQL / Postgres
+- MongoDB
 
 ## Time Availability
 
