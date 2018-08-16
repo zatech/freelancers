@@ -1,4 +1,4 @@
-#John Roux
+# John Roux
 
 ## Personal blurb
 I do dev stuff, I'm heavily involved in scouting, youth development and making the world a better place. Based in Cape Town and try to attend all the PHP Cape Town Meetups!
@@ -18,4 +18,4 @@ Flexible, project dependant
 
 
 ## Contact Information
-ZaTech: @johnroux
+ZATech: @johnroux

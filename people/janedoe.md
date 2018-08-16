@@ -1,4 +1,4 @@
-#Jane Doe
+# Jane Doe
 
 
 ## Personal blurb
@@ -11,7 +11,7 @@ I have experience with these languages/frameworks/systems, I really enjoy X and 
 Realistically I probably have around 10 hours a week max, but let me know and I'm sure we can make a plan!
 
 ## Contact Information
-My ZaTech handle is @best-dev-ever, feel free to send me a dm
+My ZATech handle is @best-dev-ever, feel free to send me a dm
 Otherwise you can contact me on:
 Twitter: @best-dev-ever
 Email: no-recruiters-please@janedoe.com
