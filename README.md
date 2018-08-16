@@ -11,9 +11,9 @@ _Click through each individual profile for more details._
 
 ## People
 
-Name | Website | Skill Set
------------- | ------- | -------
-[Allan Swanepoel](/people/allansw.md) | www.taiosolve.xyz | AWS, Devopsy stuff, Web, Python development
-[John Roux](/people/johnroux.md) | www.rouxtaccess.com | Web Dev, PHP, Laravel, AWS, DevOpsy stuff
-[Zayin Krige](/people/zayinkrige.md) | [github.com/zkrige](http://github.com/zkrige) | Native iOS, Native Android, React Native, NodeJS
+Name | Website | Skill Set | GitHub
+------------ | ------- | ------- | -------
+[Allan Swanepoel](/people/allansw.md) | www.taiosolve.xyz | AWS, Devopsy stuff, Web, Python development | [GitHub](https://github.com/allanice001)
+[John Roux](/people/johnroux.md) | www.rouxtaccess.com | Web Dev, PHP, Laravel, AWS, DevOpsy stuff | [GitHub](https://github.com/Vulcanit3)
+[Zayin Krige](/people/zayinkrige.md) | [github.com/zkrige](http://github.com/zkrige) | Native iOS, Native Android, React Native, NodeJS | [GitHub](https://github.com/zkrige)
 
