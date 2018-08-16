@@ -15,6 +15,7 @@ Name | Website | Skill Set
 ------------ | ------- | -------
 [John Roux](/people/johnroux.md) | www.rouxtaccess.com | Web Dev, PHP, Laravel, AWS, DevOpsy stuff
 ------------ | ------- | -------
-[Zayin Krige](/people/zkrige.md) | github.com/zkrige | Native iOS, Native Android, React Native, NodeJS
+[Zayin Krige](/people/zayinkrige.md) | github.com/zkrige | Native iOS, Native Android, React Native, NodeJS
 ------------ | ------- | -------
+[Allan Swanepoel](/people/allansw.md) | www.taiosolve.xyz | AWS, Devopsy stuff, Web, Python development
 
