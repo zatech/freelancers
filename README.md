@@ -12,9 +12,6 @@ _Click through each individual profile for more details._
 ## People
 
 Name | Website | Skill Set
-
 ------------ | ------- | -------
-
-
-
+[John Roux](/people/johnroux.md) | www.rouxtaccess.com | Web Dev, PHP, Laravel, AWS, DevOpsy stuff
 
