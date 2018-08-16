@@ -20,9 +20,9 @@ Flexible, project dependant
 
 
 ## Contact Information
-ZATech: @z
-EMail: zayin@krige.org
-twitter : zkrige
+ZATech: @z  
+EMail: zayin@krige.org  
+twitter : zkrige  
 
 
 ## Links
