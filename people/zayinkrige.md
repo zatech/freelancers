@@ -26,8 +26,8 @@ twitter : zkrige
 
 
 ## Links
-http://www.apextechnology.co.za
-http://linkedin.com/in/zkrige/
-http://github.com/zkrige
-http://stackoverflow.com/users/541634/zayin-krige
-http://zayinkrige.com
+[Stack overflow](http://stackoverflow.com/users/541634/zayin-krige)  
+[Linkedin](http://linkedin.com/in/zkrige/)  
+[Github](http://github.com/zkrige)  
+[Portfolio](http://www.apextechnology.co.za)  
+[Personal page](http://zayinkrige.com)  
