@@ -1,4 +1,4 @@
-#Zayin Krige
+# Zayin Krige
 
 ## Personal blurb
 I've been coding since I was 10. BASIC, GWBasic, Turbo Pascal, PHP, Delphi, Java, Objective-C, Swift, Kotlin, Javascript. For the last 5 Years I have been focusing on native mobile development. I live on a smallholding in Somerset West and have a wife and 4 kids
