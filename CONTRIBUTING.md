@@ -11,10 +11,8 @@ Pull requests will be accepted based on the following:
 
 ## New Freelancer Formatting?
 
-1. Add a MarkDown file for yourself inside `/people` like: `/people/jane-doe.md`
+1. Add a MarkDown file for yourself inside `/people` like: `/people/jane-doe.md`  (see [Example](/people/janedoe.md) for an example))
 2. Optionally you may add additional supporting information inside `/people/YOUR_NAME/`
 3. Add a new entry into `/README.md` with a link to your file in `/people/YOUR_NAME`
-
-
 
 #Thanks for contributing!
