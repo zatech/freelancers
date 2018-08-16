@@ -3,6 +3,9 @@
 A list of people who are freelancing in South Africa, primary focus being on development, but open to any tech related roles.
 
 
+To add yourself, clone the repository, and run `add_self.sh`, it will prompt you for the required information; Full Name, Website, Skill Set, Github Handle, and filename for the `/people` directory.  Once it is complete, it will have created your entry in the `README.md` as well as copied the template for you into `/people`. Open it up, amend the information, commit the files, and submit the PR as guided by the below listed document.
+
+
 Contributions are very welcome! Please
 [submit a pull request on GitHub](/CONTRIBUTING.md).
 
