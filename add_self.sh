@@ -10,6 +10,8 @@ read -p 'Github Handle: ' github
 # Add new user to the README before sorting
 echo "[${name}](/people/${filename}) | ${website} | ${skillset} | [GitHub](https://github.com/${github})" >> README.md
 
+sed -e 's/# Jane Doe/# '"${name}"'/' people/janedoe.md > people/"${filename}".md
+
 # Get the line number for the top of the table, and skip them
 LNR=$(grep -n 'Name |' README.md | cut -f1 -d:)
 LNR=$(($LNR+2))
