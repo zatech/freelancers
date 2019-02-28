@@ -19,4 +19,4 @@ Name | Website | Skill Set | GitHub
 [Zayin Krige](/people/zayinkrige.md) | [github.com/zkrige](http://github.com/zkrige) | Native iOS, Native Android, React Native, NodeJS | [GitHub](https://github.com/zkrige)
 [Rudolph Koegelenberg](/people/rudolphk.md) | www.rudolphk.co.za | .NET / ServiceStack, Node.js, PHP, Wordpress, Angular, Vue.js, Web Development, Umbraco | [GitHub](https://github.com/rudolph2907)
 [Nik Spyratos](/people/nikspyratos.md) | [www.thecapegreek.co.za](www.thecapegreek.co.za) | PHP, Laravel, Web | [GitHub](https://github.com/nikolaos-spyratos)
-[Erik Thiart](/people/erikthiart.md) | [ErikThiart.com](www.erikthiart.com) | PHP, ERP/CRM, Networking/Mikrotik, Digital Marketing, Business Consulting | [GitHub](https://github.com/erikthiart)
+[Erik Thiart](/people/erikthiart.md) | [ErikThiart.com](https://erikthiart.com) | PHP, ERP/CRM, Networking/Mikrotik, Digital Marketing, Business Consulting | [GitHub](https://github.com/erikthiart)
