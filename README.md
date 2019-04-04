@@ -14,7 +14,7 @@ _Click through each individual profile for more details._
 Name | Website | Skill Set | GitHub
 ------------ | ------- | ------- | -------
 [Allan Swanepoel](/people/allansw.md) | [www.taiosolve.xyz](www.taiosolve.xyz) | AWS, Devopsy stuff, Web, Python development | [GitHub](https://github.com/allanice001)
-[Ewald Horn](/people/ewaldhorn.md) | [www.nofuss.co.za](https://www.nofuss.co.za) | Android Native, Flutter, Dart, Kotlin, OpenGL ES, PWA, AngularDart | [GitHub](https://github.com/ewaldhorn)
+[Ewald Horn](/people/ewaldhorn.md) | [www.nofuss.co.za](https://www.nofuss.co.za) | Flutter, Dart, Android, iOS | [GitHub](https://github.com/ewaldhorn)
 [John Roux](/people/johnroux.md) | www.rouxtaccess.com | Web Dev, PHP, Laravel, AWS, DevOpsy stuff | [GitHub](https://github.com/Vulcanit3)
 [Zayin Krige](/people/zayinkrige.md) | [github.com/zkrige](http://github.com/zkrige) | Native iOS, Native Android, React Native, NodeJS | [GitHub](https://github.com/zkrige)
 [Rudolph Koegelenberg](/people/rudolphk.md) | www.rudolphk.co.za | .NET / ServiceStack, Node.js, PHP, Wordpress, Angular, Vue.js, Web Development, Umbraco | [GitHub](https://github.com/rudolph2907)
