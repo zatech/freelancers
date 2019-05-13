@@ -13,6 +13,7 @@ _Click through each individual profile for more details._
 
 Name | Website | Skill Set | GitHub
 ------------ | ------- | ------- | -------
+[Pieter Venter](/people/pieterventer.md) | [pieter.venter.pro](https://pieter.venter.pro) | Node, Javascript, React, GraphQL, Flutter, React Native | [GitHub](https://github.com/cyrus-za)
 [Allan Swanepoel](/people/allansw.md) | [www.taiosolve.xyz](www.taiosolve.xyz) | AWS, Devopsy stuff, Web, Python development | [GitHub](https://github.com/allanice001)
 [Ewald Horn](/people/ewaldhorn.md) | [www.nofuss.co.za](https://www.nofuss.co.za) | Flutter, Dart, Android, iOS | [GitHub](https://github.com/ewaldhorn)
 [John Roux](/people/johnroux.md) | www.rouxtaccess.com | Web Dev, PHP, Laravel, AWS, DevOpsy stuff | [GitHub](https://github.com/Vulcanit3)
