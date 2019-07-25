@@ -20,5 +20,5 @@ Name | Website | Skill Set | GitHub
 [Nik Spyratos](/people/nikspyratos.md) | [www.thecapegreek.co.za](www.thecapegreek.co.za) | PHP, Laravel, Web | [GitHub](https://github.com/nikolaos-spyratos)
 [Pieter Venter](/people/pieterventer.md) | [pieter.venter.pro](https://pieter.venter.pro) | Node, Javascript, React, GraphQL, Flutter, React Native | [GitHub](https://github.com/cyrus-za)
 [Rudolph Koegelenberg](/people/rudolphk.md) | www.rudolphk.co.za | .NET / ServiceStack, Node.js, PHP, Wordpress, Angular, Vue.js, Web Development, Umbraco | [GitHub](https://github.com/rudolph2907)
-[Simo Mafuxwana](/people/simomafuxwana) | https://simomafuxwana.netlify.com/ | Javascript, Nuxt, Vue, React, PWAs | [GitHub](https://github.com/https://github.com/dlodeprojuicer)
+[Simo Mafuxwana](/people/simomafuxwana) | https://simomafuxwana.netlify.com/ | Javascript, Nuxt, Vue, React, PWAs | [GitHub](https://github.com/dlodeprojuicer)
 [Zayin Krige](/people/zayinkrige.md) | [github.com/zkrige](http://github.com/zkrige) | Native iOS, Native Android, React Native, NodeJS | [GitHub](https://github.com/zkrige)
