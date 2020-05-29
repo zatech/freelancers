@@ -22,3 +22,4 @@ Name | Website | Skill Set | GitHub
 [Rudolph Koegelenberg](/people/rudolphk.md) | www.rudolphk.co.za | .NET / ServiceStack, Node.js, PHP, Wordpress, Angular, Vue.js, Web Development, Umbraco | [GitHub](https://github.com/rudolph2907)
 [Simo Mafuxwana](/people/simomafuxwana) | https://simomafuxwana.netlify.com/ | Javascript, Nuxt, Vue, React, PWAs | [GitHub](https://github.com/dlodeprojuicer)
 [Zayin Krige](/people/zayinkrige.md) | [github.com/zkrige](http://github.com/zkrige) | Native iOS, Native Android, React Native, NodeJS | [GitHub](https://github.com/zkrige)
+[Francois Laubscher](/people/francoislaubscher.md) | [francois.codes](https://francois.codes) | React, NodeJS, .NET Core, Docker, Web | [GitHub](https://github.com/fjlaubscher)
