@@ -13,7 +13,7 @@ _Click through each individual profile for more details._
 
 Name | Website | Skill Set | GitHub
 ------------ | ------- | ------- | -------
-[Akshar Bhagwandin](/people/aksharbhagwandin) | https://akshar.co.za | Javascript, NodeJs, Java, Angular, React, Spring | [GitHub](https://github.com/aksharbhagwandin)
+[Akshar Bhagwandin](/people/aksharbhagwandin) | [akshar.co.za](https://akshar.co.za) | Javascript, NodeJs, Java, Angular, React, Spring | [GitHub](https://github.com/aksharbhagwandin)
 [Allan Swanepoel](/people/allansw.md) | [www.taiosolve.xyz](www.taiosolve.xyz) | AWS, Devopsy stuff, Web, Python development | [GitHub](https://github.com/allanice001)
 [Erik Thiart](/people/erikthiart.md) | [ErikThiart.com](https://erikthiart.com) | PHP, ERP/CRM, Networking/Mikrotik, Digital Marketing, Business Consulting | [GitHub](https://github.com/erikthiart)
 [Ewald Horn](/people/ewaldhorn.md) | [www.nofuss.co.za](https://www.nofuss.co.za) | Flutter, Dart, Android, iOS | [GitHub](https://github.com/ewaldhorn)
