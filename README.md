@@ -19,6 +19,7 @@ Name | Website | Skill Set | GitHub
 [Ewald Horn](/people/ewaldhorn.md) | [www.nofuss.co.za](https://www.nofuss.co.za) | Flutter, Dart, Android, iOS | [GitHub](https://github.com/ewaldhorn)
 [Francois Laubscher](/people/francoislaubscher.md) | [francois.codes](https://francois.codes) | React, NodeJS, .NET Core, Docker, Web | [GitHub](https://github.com/fjlaubscher)
 [John Roux](/people/johnroux.md) | www.rouxtaccess.com | AWS, DevOpsy stuff, PHP, Laravel, API, Mentor, Systems Arcitect, Gatekeeper | [GitHub](https://github.com/JohnRoux)
+[Laurie Scheepers](/people/laursch.md) | https://laurcode.com | Android Development | [GitHub](https://github.com/lauriescheepers)
 [Nik Spyratos](/people/nikspyratos.md) | [www.thecapegreek.co.za](www.thecapegreek.co.za) | PHP, Laravel, Web | [GitHub](https://github.com/nikolaos-spyratos)
 [Pieter Venter](/people/pieterventer.md) | [pieter.venter.pro](https://pieter.venter.pro) | Node, Javascript, React, GraphQL, Flutter, React Native | [GitHub](https://github.com/cyrus-za)
 [Rudolph Koegelenberg](/people/rudolphk.md) | www.rudolphk.co.za | .NET / ServiceStack, Node.js, PHP, Wordpress, Angular, Vue.js, Web Development, Umbraco | [GitHub](https://github.com/rudolph2907)
