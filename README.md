@@ -20,6 +20,7 @@ Name | Website | Skill Set | GitHub
 [Francois Laubscher](/people/francoislaubscher.md) | [francois.codes](https://francois.codes) | React, NodeJS, .NET Core, Docker, Web | [GitHub](https://github.com/fjlaubscher)
 [John Roux](/people/johnroux.md) | www.rouxtaccess.com | AWS, DevOpsy stuff, PHP, Laravel, API, Mentor, Systems Arcitect, Gatekeeper | [GitHub](https://github.com/JohnRoux)
 [Laurie Scheepers](/people/laursch.md) | https://laurcode.com | Android Development | [GitHub](https://github.com/lauriescheepers)
+[Martin Kruger](/people/martinkruger) | https://www.martinkruger.com | React, Gatsby, Node.js, Jest, TDD, translate design to pixel-perfect code | [GitHub](https://github.com/martink-rsa)
 [Niel Zeeman](/people/niel_zeeman.md) | [www.teamfoundation.co.za](https://www.teamfoundation.co.za) | .Net, .Net Core, DevOps, Cloud, Azure, ReactJS, Typescript, Azure DevOps, GitHub | [GitHub](https://github.com/nielzeeman)
 [Nik Spyratos](/people/nikspyratos.md) | [www.thecapegreek.co.za](www.thecapegreek.co.za) | PHP, Laravel, Web | [GitHub](https://github.com/nikolaos-spyratos)
 [Pieter Venter](/people/pieterventer.md) | [pieter.venter.pro](https://pieter.venter.pro) | Node, Javascript, React, GraphQL, Flutter, React Native | [GitHub](https://github.com/cyrus-za)
