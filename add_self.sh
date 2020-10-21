@@ -2,15 +2,29 @@
 
 # Get new users details
 read -p 'Name & Surname: ' name
-read -p '/people/ filename: ' filename
+read -p '/people/ filename (Excluding .md): ' filename
+read -p 'Email: ' email
 read -p 'Website: ' website
 read -p 'Skill set: ' skillset
 read -p 'Github Handle: ' github
+read -p 'ZATech handle: ' zatech
+read -p 'Twitter handle: ' twitter
+read -p 'Linkedin handle (https://www.linkedin.com/in/[handle]/): ' linkedin
+read -p 'Cellphone number: ' cell
 
 # Add new user to the README before sorting
 echo "[${name}](/people/${filename}) | ${website} | ${skillset} | [GitHub](https://github.com/${github})" >> README.md
 
-sed -e 's/# Jane Doe/# '"${name}"'/' people/janedoe.md > people/"${filename}".md
+sed -E \
+  -e 's/# Jane Doe/# '"${name}"'/' \
+  -e 's/best-dev-ever-zatech/'"${zatech}"'/' \
+  -e 's/best-dev-ever-twitter/'"${twitter}"'/' \
+  -e 's/no-recruiters-please@janedoe.com/'"${email}"'/' \
+  -e 's/cell_number/'"${cell}"'/' \
+  -e 's#website_link#'"${website}"'#' \
+  -e 's#best-dev-ever-github#'"${github}"'#' \
+  -e 's#best-dev-ever-linkedin#'"${linkedin}"'#' \
+  people/janedoe.md > people/"${filename}".md
 
 # Get the line number for the top of the table, and skip them
 LNR=$(grep -n 'Name |' README.md | cut -f1 -d:)
