@@ -33,6 +33,7 @@ You can get more information about me here (https://haak.co)
 
 ## Where to find me
 * [WebSite](https://haak.co)
+* [Email](mailto:no-recruiters-please@janedoe.com)
 * [Github Work](https://github.com/haakco)
 * [Github](https://github.com/timhaak)
 * [Twitter](https://twitter.com/tim_haak)

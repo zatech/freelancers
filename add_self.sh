@@ -13,7 +13,7 @@ read -p 'Linkedin handle (https://www.linkedin.com/in/[handle]/): ' linkedin
 read -p 'Cellphone number: ' cell
 
 # Add new user to the README before sorting
-echo "[${name}](/people/${filename}) | ${website} | ${skillset} | [GitHub](https://github.com/${github})" >> README.md
+echo "[${name}](/people/${filename}.md) | ${website} | ${skillset} | [GitHub](https://github.com/${github})" >> README.md
 
 sed -E \
   -e 's/# Jane Doe/# '"${name}"'/' \
