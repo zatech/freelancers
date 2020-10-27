@@ -11,6 +11,7 @@ website: https://example.com
 skillset: PHP, Laravel, MySQL, PostgresSQL, Docker, Linux, Ansible, Packer, Terraform, AWS
 github-handle: Dorfling
 zatech-handle: outied
+zatech-link: https://zatech.slack.com/archives/D01DLEZ72EQ
 twitter-handle: foo
 linkedin-handle: outie-dorfling-aa70131a3
 ---

@@ -9,6 +9,7 @@ website: https://www.taiosolve.xyz
 skillset: AWS, Devopsy stuff, Web, Python development
 github-handle: allanice001
 zatech-handle: dragonmaster
+zatech-link: https://zatech.slack.com/archives/DA62N9DBN
 ---
 
 ## Personal blurb

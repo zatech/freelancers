@@ -27,7 +27,12 @@ layout: default
   {% if page.website %}
     <tr>
       <td>website:</td>
-      <td><a href="{{ page.website }}">{{ page.website }}</a></td>
+      <td>
+        <a
+          href="{{ page.website }}"
+          target="_blank"
+        >{{ page.website }}</a>
+      </td>
     </tr>
   {% endif %}
 
@@ -35,15 +40,28 @@ layout: default
     <tr>
       <td>GitHub:</td>
       <td>
-        <a href="https://github.com/{{ page.github-handle }}">{{ page.github-handle }}</a>
+        <a
+          href="https://github.com/{{ page.github-handle }}"
+          target="_blank"
+        >{{ page.github-handle }}</a>
       </td>
     </tr>
   {% endif %}
 
   {% if page.zatech-handle %}
     <tr>
-      <td>ZATech Handle:</td>
-      <td>{{ page.zatech-handle }}</td>
+      <td>ZATech:</td>
+      <td>
+        {% if page.zatech-link %}
+          <a
+            href="{{ page.zatech-link }}"
+            target="_blank"
+          >
+            {{ page.zatech-handle }}
+          </a>
+        {% else %}
+          {{ page.zatech-handle }}
+        {% endif %}
     </tr>
   {% endif %}
 
@@ -51,7 +69,10 @@ layout: default
     <tr>
       <td>Twitter:</td>
       <td>
-        <a href="https://twitter.com/{{ page.twitter-handle }}">{{ page.twitter-handle }}</a>
+        <a
+          href="https://twitter.com/{{ page.twitter-handle }}"
+          target="_blank"
+        >{{ page.twitter-handle }}</a>
       </td>
     </tr>
   {% endif %}
@@ -60,7 +81,10 @@ layout: default
     <tr>
       <td>website:</td>
       <td>
-        <a href="https://www.linkedin.com/in/{{ page.linkedin-handle }}">{{ page.linkedin-handle }}</a>
+        <a
+          href="https://www.linkedin.com/in/{{ page.linkedin-handle }}"
+          target="_blank"
+        >{{ page.linkedin-handle }}</a>
       </td>
     </tr>
   {% endif %}

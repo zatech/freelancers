@@ -11,6 +11,7 @@ website: https://example.com
 skillset: python javascript php mysql etc
 github-handle: foo
 zatech-handle: foo
+zatech-link: https://zatech.slack.com/archives/D0B1N1MBN
 twitter-handle: foo
 linkedin-handle: foo
 ---

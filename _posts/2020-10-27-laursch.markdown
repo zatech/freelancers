@@ -10,6 +10,7 @@ website: https://laurcode.com
 skillset: python javascript php mysql etc
 github-handle: lauriescheepers
 zatech-handle: lauriescheepers
+zatech-link: https://zatech.slack.com/archives/D03TE4TGT
 ---
 
 ## Personal blurb

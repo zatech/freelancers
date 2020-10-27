@@ -10,6 +10,7 @@ website: https://www.nofuss.co.za
 skillset: Flutter, Dart, Android, iOS
 github-handle: ewaldhorn
 zatech-handle: Ewald
+zatech-link: https://zatech.slack.com/archives/D06488F37
 twitter-handle: EwaldHorn
 linkedin-handle: ewaldhorn
 ---

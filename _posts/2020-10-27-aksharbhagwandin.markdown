@@ -10,6 +10,7 @@ website: https://akshar.co.za
 skillset: Javascript, NodeJs, Java, Angular, React, Spring
 github-handle: aksharbhagwandin
 zatech-handle: AKaY
+zatech-link: https://zatech.slack.com/archives/DP10468K0
 twitter-handle: __akshar__
 linkedin-handle: aksharbhagwandin
 ---

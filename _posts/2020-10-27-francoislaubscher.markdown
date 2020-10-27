@@ -10,6 +10,7 @@ website: https://francois.codes
 skillset: React, NodeJS, .NET Core, Docker, Web
 github-handle: fjlaubscher
 zatech-handle: fjlaubscher
+zatech-link: https://zatech.slack.com/archives/D074487RR
 linkedin-handle: fjlaubscher
 ---
 

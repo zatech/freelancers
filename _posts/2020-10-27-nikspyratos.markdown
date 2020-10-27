@@ -9,7 +9,8 @@ email: nik.spyratos@gmail.com
 website: https://www.thecapegreek.co.za
 skillset: PHP, Laravel, Web
 github-handle: nikolaos-spyratos
-zatech-handle: thecapegreek
+zatech-handle: Nik
+zatech-link: https://zatech.slack.com/archives/DMTGSQ9RC
 linkedin-handle: nikolaos-spyratos
 ---
 

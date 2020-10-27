@@ -11,6 +11,7 @@ website: https://simomafuxwana.netlify.com/
 skillset: Javascript, Nuxt, Vue, React, PWAs
 github-handle: dlodeprojuicer
 zatech-handle: dlodeprojuicer
+zatech-link: https://zatech.slack.com/archives/D01D7HYALEA
 ---
 
 ## Personal blurb

@@ -10,6 +10,7 @@ website: http://zayinkrige.com
 skillset: React Native Objective-C Swift Java Kotlin Javascript
 github-handle: zkrige
 zatech-handle: z
+zatech-link: https://zatech.slack.com/archives/D06SFBY5A
 twitter-handle: zkrige
 linkedin-handle: zkrige
 ---

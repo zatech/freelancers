@@ -10,6 +10,7 @@ website: https://www.martinkruger.com
 skillset: React, Gatsby, Node.js, Jest, TDD, translating designs to pixel-perfect code
 github-handle: martink-rsa
 zatech-handle: Martin Kruger
+zatech-link: https://zatech.slack.com/archives/D01DLFERYAY
 linkedin-handle: martink-rsa
 ---
 

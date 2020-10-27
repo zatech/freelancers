@@ -11,6 +11,7 @@ website: https://haak.co
 skillset: PHP, Laravel, MySQL, PostgresSQL, Docker, Ansible, Packer, Terraform, AWS, Azure
 github-handle: haakco
 zatech-handle: timhaak
+zatech-link: https://zatech.slack.com/archives/D01E45BV41E
 twitter-handle: tim_haak
 linkedin-handle: timhaakco
 ---

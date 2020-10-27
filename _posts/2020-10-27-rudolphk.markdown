@@ -11,6 +11,7 @@ website: https://www.rudolphk.co.za
 skillset: .NET / ServiceStack, Node.js, PHP, Wordpress, Angular, Vue.js, Web Development, Umbraco
 github-handle: rudolph2907
 zatech-handle: rudolphk
+zatech-link: https://zatech.slack.com/archives/D01E45ENGU8
 twitter-handle: rudolphk2907
 linkedin-handle: rudolphkoegelenberg
 ---

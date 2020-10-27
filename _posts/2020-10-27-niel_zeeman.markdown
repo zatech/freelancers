@@ -10,6 +10,7 @@ website: https://www.teamfoundation.co.za
 skillset: .Net, .Net Core, DevOps, Cloud, Azure, ReactJS, Typescript, Azure DevOps, GitHub
 github-handle: nielzeeman
 zatech-handle: Niel Zeeman
+zatech-link: https://zatech.slack.com/archives/DNE3NQGTE
 twitter-handle: teamfoundation
 linkedin-handle: nielzeeman
 ---

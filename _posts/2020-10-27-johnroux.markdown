@@ -9,10 +9,7 @@ website: https://www.rouxtaccess.com
 skillset: AWS, DevOpsy stuff, PHP, Laravel, API, Mentor, Systems Arcitect, Gatekeeper
 github-handle: JohnRoux
 zatech-handle: johnroux
-
-twitter-handle: foo
-linkedin-handle: foo
-
+zatech-link: https://zatech.slack.com/archives/D2D507JUD
 ---
 
 ## Personal blurb
