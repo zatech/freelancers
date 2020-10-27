@@ -5,7 +5,6 @@ category: Freelancers
 
 ## Person data
 name: John Roux
-cellphone: 0721234567
 website: https://www.rouxtaccess.com
 skillset: AWS, DevOpsy stuff, PHP, Laravel, API, Mentor, Systems Arcitect, Gatekeeper
 github-handle: JohnRoux

@@ -1,4 +1,17 @@
-# Nik Spyratos
+---
+layout: post
+tags: php laravel web
+category: Freelancers
+
+## Person data
+name: Nik Spyratos
+email: nik.spyratos@gmail.com
+website: https://www.thecapegreek.co.za
+skillset: PHP, Laravel, Web
+github-handle: nikolaos-spyratos
+zatech-handle: thecapegreek
+linkedin-handle: nikolaos-spyratos
+---
 
 ## Personal
 Cape Town based PHP developer. I do a bit of everything, but especially exploring the city.
@@ -22,9 +35,3 @@ Cape Town based PHP developer. I do a bit of everything, but especially explorin
 
 ## Availability
 Depends on the time and project.
-
-## Reach out
-ZATech: @thecapegreek
-Website: www.thecapegreek.co.za
-E-Mail: nik.spyratos@gmail.com
-LinkedIn: [Nikolaos Spyratos](https://www.linkedin.com/in/nikolaos-spyratos/)

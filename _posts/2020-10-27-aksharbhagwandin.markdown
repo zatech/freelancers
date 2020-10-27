@@ -1,4 +1,18 @@
-# Akshar Bhagwandin
+---
+layout: post
+tags: javascript nodejs java angular react spring
+category: Freelancers
+
+## Person data
+name: Akshar Bhagwandin
+email: info@akshar.co.za
+website: https://akshar.co.za
+skillset: Javascript, NodeJs, Java, Angular, React, Spring
+github-handle: aksharbhagwandin
+zatech-handle: AKaY
+twitter-handle: __akshar__
+linkedin-handle: aksharbhagwandin
+---
 
 ## Personal blurb
 
@@ -7,11 +21,11 @@ I love coding, been doing it for the past 18 years.  I enjoy helping junior soft
 ## Skill Set
 
 Below is a non-exhaustive list of languages and frameworks I have used:
-* Javascript | Angular | Aurelia | React | Vue
-* Java | Spring
-* Python | Django
-* Postgres | MySQL | MongoDB
-* Docker | Kubernetes
+* Javascript, Angular, Aurelia, React, Vue
+* Java, Spring
+* Python, Django
+* Postgres, MySQL, MongoDB
+* Docker, Kubernetes
 * React Native
 
 I am always enthusiastically learning other programming languages, frameworks and principles. 
@@ -22,14 +36,9 @@ This is dependent on the project as I am quite flexible
 
 ## Contact Information
 
-* ZATech: @AKaY -> DM here
-* Email: info@akshar.co.za  
-* Twitter:\_\_akshar__ 
 * Instagram: aksharbhagwandin
 
 ## Links
 
-[My Personal Page](https://akshar.co.za/)  
-[Linkedin](https://www.linkedin.com/in/aksharbhagwandin/)  
 [Gitlab](https://gitlab.com/aksharbhagwandin)  
 [Portfolio](https://performotion.co.za/)  

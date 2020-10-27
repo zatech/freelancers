@@ -1,5 +1,17 @@
-# Erik Thiart
+---
+layout: post
+tags: php mikrotik
+category: Freelancers
 
+## Person data
+name: Erik Thiart
+email: web@erikthiart.com
+website: https://erikthiart.com
+skillset: PHP, ERP/CRM, Networking/Mikrotik, Digital Marketing, Business Consulting
+github-handle: erikthiart
+twitter-handle: ErikThiart
+linkedin-handle: erikthiart
+---
 
 ## Personal blurb
 I solve problems for a living. I am based in Bellville and I enjoy building ERP and CRM systems from scratch. I enjoy the IoT space as well, building arduino based sensors for the agriculture sector.
@@ -13,15 +25,3 @@ I solve problems for a living. I am based in Bellville and I enjoy building ERP 
 
 ## Time Availability
 Depends on the project, realistically weekends and some days during the week, depending on scope.
-
-## Contact Information
-My Twitter handle is @ErikThiart, feel free to send me a dm
-Otherwise you can contact me on:
-Email: web(@)erikthiart.com
-Cell: On my website.
-
-## Links
-
-[Linkedin](https://www.linkedin.com/in/erikthiart/)
-[Github](https://github.com/ErikThiart)
-[Personal page](https://erikthiart.com/)

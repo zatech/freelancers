@@ -1,4 +1,18 @@
-# Pieter Venter
+---
+layout: post
+tags: node, javascript, react, graphql, flutter, react-native
+category: Freelancers
+
+## Person data
+name: Pieter Venter
+email: pieter@venter.pro
+website: https://pieter.venter.pro
+skillset: Node, Javascript, React, GraphQL, Flutter, React Native
+github-handle: cyrus-za
+zatech-handle: pieter
+twitter-handle: VentusCyrus
+linkedin-handle: pventer1
+---
 
 ## Personal blurb
 
@@ -24,21 +38,11 @@ Primary skills:
 
 I have previously worked with C#.NET, Java, Python, Ruby and many other technologies but the JS ecosystem is miles ahead of other languages these days.
 
-See my [website](https://pieter.venter.pro/), [Linkedin profile](https://www.linkedin.com/in/pventer1/) or [About Me](https://about.me/pieter.venter) pages for more information.
-
 ## Time Availability
 
 Flexible, with a strong preference for remote work.
-
-## Contact Information
-
-EMail: pieter@venter.pro  
-Twitter: @VentusCyrus
-ZATech: @pieter
 
 ## Links
 
 [About Me](https://about.me/pieter.venter)  
 [Stack overflow](https://stackoverflow.com/story/pieterventer/)  
-[Linkedin](https://www.linkedin.com/in/pventer1/)  
-[Website](https://pieter.venter.pro/)  
