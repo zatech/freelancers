@@ -1,4 +1,7 @@
-# ZaTech Freelancing
+
+@TODO: 
+
+# ZATech Freelancing
 
 A list of people who are freelancing in South Africa, primary focus being on development, but open to any tech related roles.
 

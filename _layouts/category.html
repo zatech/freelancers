@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h3>{{ page.tag }}</h3>
+
+<ul>
+  {% for post in site.categories[page.tag] %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.name }}</a>:
+      <small>{{ post.skillset }}</small>
+    </li>
+  {% endfor %}
+</ul>

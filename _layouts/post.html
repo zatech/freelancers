@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<a href="{{ site.url }}">{{ site.theme_config.back_home_text }}</a>
+<h1>{{ page.name }}</h1>
+
+{% if page.skillset %}
+<h3>{{ page.skillset }}</h3>
+{% endif %}
+
+<table>
+  {% if page.email %}
+    <tr>
+      <td>email:</td>
+      <td><a href="mailto:{{ page.email }}">{{ page.email }}</a></td>
+    </tr>
+  {% endif %}
+
+  {% if page.cellphone %}
+    <tr>
+      <td>cellphone:</td>
+      <td><a href="tel:{{ page.cellphone }}">{{ page.cellphone }}</a></td>
+    </tr>
+  {% endif %}
+
+  {% if page.website %}
+    <tr>
+      <td>website:</td>
+      <td><a href="{{ page.website }}">{{ page.website }}</a></td>
+    </tr>
+  {% endif %}
+
+  {% if page.github-handle %}
+    <tr>
+      <td>GitHub:</td>
+      <td>
+        <a href="https://github.com/{{ page.github-handle }}">{{ page.github-handle }}</a>
+      </td>
+    </tr>
+  {% endif %}
+
+  {% if page.zatech-handle %}
+    <tr>
+      <td>ZATech Handle:</td>
+      <td>{{ page.zatech-handle }}</td>
+    </tr>
+  {% endif %}
+
+  {% if page.twitter-handle %}
+    <tr>
+      <td>Twitter:</td>
+      <td>
+        <a href="https://twitter.com/{{ page.twitter-handle }}">{{ page.twitter-handle }}</a>
+      </td>
+    </tr>
+  {% endif %}
+
+  {% if page.linkedin-handle %}
+    <tr>
+      <td>website:</td>
+      <td>
+        <a href="https://www.linkedin.com/in/{{ page.linkedin-handle }}">{{ page.linkedin-handle }}</a>
+      </td>
+    </tr>
+  {% endif %}
+</table>
+
+{{ content }}
