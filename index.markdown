@@ -8,6 +8,10 @@ layout: default
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}
+
+  <p>
+    If you'd like to add yourself to the site, please check out the repository and <a href="https://github.com/zatech/freelancers">README.md</a> on GitHub.
+  </p>
 </header>
 
 {% for cat in site.categories %}
