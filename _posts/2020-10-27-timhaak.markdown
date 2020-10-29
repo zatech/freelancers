@@ -1,4 +1,20 @@
-# Tim Haak
+---
+layout: post
+tags: php laravel
+category: Freelancers
+
+## Person data
+name: Tim Haak
+cellphone: "+27837787100"
+email: tim@haak.co
+website: https://haak.co
+skillset: PHP, Laravel, MySQL, PostgresSQL, Docker, Ansible, Packer, Terraform, AWS, Azure
+github-handle: haakco
+zatech-handle: timhaak
+zatech-link: https://zatech.slack.com/archives/D01E45BV41E
+twitter-handle: tim_haak
+linkedin-handle: timhaakco
+---
 
 ## Personal blurb
 I'm a full time consultant based in Centurion.
@@ -21,20 +37,3 @@ Main area's of expertise:
 
 ## Time Availability
 Depends on other commitments. Though if I can't help I'm sure I can recommend someone.
-
-## Contact Information
-My ZATech handle is @timhaak, feel free to send me a dm
-Otherwise you can contact me on:
-Twitter: @tim_haak
-Email: tim@haak.co
-Cell: +27837787100
-
-You can get more information about me here (https://haak.co)
-
-## Where to find me
-* [WebSite](https://haak.co)
-* [Email](mailto:tim@haak.co)
-* [Github Work](https://github.com/haakco)
-* [Github](https://github.com/timhaak)
-* [Twitter](https://twitter.com/tim_haak)
-* [Linkedin](https://www.linkedin.com/in/timhaakco/)  

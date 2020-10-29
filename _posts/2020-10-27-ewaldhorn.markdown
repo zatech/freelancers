@@ -1,4 +1,19 @@
-# Ewald Horn
+---
+layout: post
+tags: flutter dart android ios
+category: Freelancers
+
+## Person data
+name: Ewald Horn
+email: ewald@nofuss.co.za
+website: https://www.nofuss.co.za
+skillset: Flutter, Dart, Android, iOS
+github-handle: ewaldhorn
+zatech-handle: Ewald
+zatech-link: https://zatech.slack.com/archives/D06488F37
+twitter-handle: EwaldHorn
+linkedin-handle: ewaldhorn
+---
 
 ## Personal blurb
 
@@ -22,21 +37,11 @@ Primary skills:
 
 In the past, I've worked in JavaScript, NativeScript, Java (ME, SE, EE), Scala, Swift, Python, C, C++, PHP, HTML5, Delphi, Objective-C and some time ago, Cobol.
 
-See my [website](https://www.nofuss.co.za/), [Linkedin](https://www.linkedin.com/in/ewaldhorn/) profile or [About Me](https://about.me/ewaldhorn) pages for more information.
-
 ## Time Availability
 
 Flexible, with a strong preference for remote work.
-
-## Contact Information
-
-EMail: ewald@nofuss.co.za  
-Twitter: @EwaldHorn  
-ZATech: @Ewald
 
 ## Links
 
 [About Me](https://about.me/ewaldhorn)  
 [Stack overflow](https://stackoverflow.com/story/ewaldhorn)  
-[Linkedin](https://www.linkedin.com/in/ewaldhorn/)  
-[Website](https://www.nofuss.co.za/)  

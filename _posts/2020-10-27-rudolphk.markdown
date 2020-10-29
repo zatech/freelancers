@@ -1,0 +1,40 @@
+---
+layout: post
+tags: senior remote
+tags: net nodejs php wordpress angular vuejs web umbraco
+category: Freelancers
+
+## Person data
+name: Rudolph Koegelenberg
+email: rudolph.koegelenberg@gmail.com
+website: https://www.rudolphk.co.za
+skillset: .NET / ServiceStack, Node.js, PHP, Wordpress, Angular, Vue.js, Web Development, Umbraco
+github-handle: rudolph2907
+zatech-handle: rudolphk
+zatech-link: https://zatech.slack.com/archives/D01E45ENGU8
+twitter-handle: rudolphk2907
+linkedin-handle: rudolphkoegelenberg
+---
+
+## Personal blurb
+
+I am a full stack developer / web consultant / part-time lecturer with over 13 years experience in software development.
+
+## Skill Set
+
+Main area's of expertise:
+
+- .NET / ServiceStack
+- Node.js
+- Vue.js
+- PHP
+- Wordpress
+- Angular
+- Web Development
+- Umbraco
+- MS SQL / MySQL / Postgres
+- MongoDB
+
+## Time Availability
+
+Full time

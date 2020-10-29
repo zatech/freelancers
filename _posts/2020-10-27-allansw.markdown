@@ -1,8 +1,19 @@
-# Allan Swanepoel
+---
+layout: post
+tags: aws python
+category: Freelancers
+
+## Person data
+name: Allan Swanepoel
+website: https://www.taiosolve.xyz
+skillset: AWS, Devopsy stuff, Web, Python development
+github-handle: allanice001
+zatech-handle: dragonmaster
+zatech-link: https://zatech.slack.com/archives/DA62N9DBN
+---
 
 ## Personal blurb
 I do dev stuff. Based in Centurion.
-
 
 ## Skill Set
 Main area's of expertise:
@@ -14,7 +25,3 @@ I've lead a couple teams and am more than happy in that role, gatekeeping code o
 
 ## Time Availability
 Flexible, project dependant
-
-
-## Contact Information
-ZaTech: @dragonmaster

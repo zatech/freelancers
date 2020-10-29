@@ -1,4 +1,18 @@
-# Martin Kruger
+---
+layout: post
+tags: react, gatsby, nodejs, jest, tdd
+category: Freelancers
+
+## Person data
+name: Martin Kruger
+email: martin@martinkruger.com
+website: https://www.martinkruger.com
+skillset: React, Gatsby, Node.js, Jest, TDD, translating designs to pixel-perfect code
+github-handle: martink-rsa
+zatech-handle: Martin Kruger
+zatech-link: https://zatech.slack.com/archives/D01DLFERYAY
+linkedin-handle: martink-rsa
+---
 
 ## Personal blurb
 
@@ -44,16 +58,7 @@ I will have multiple hours per week, please get in touch with me to see what hou
 
 ## Contact Information
 
-My ZATech handle is @Martin Kruger, feel free to send me a dm.
-
 You can also reach me through the following links:
 
-- Email: martin@martinkruger.com
-
-- Website: https://www.martinkruger.com
-
-- LinkedIn: https://www.linkedin.com/in/martink-rsa/
-
 - Medium: https://medium.com/@martink_rsa/
-
 - YouTube: https://www.youtube.com/channel/UC6Yp7xFI2SZJQxmvzwh4myA
