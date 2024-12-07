@@ -6,7 +6,7 @@ category: Freelancers
 ## Person data
 name: Name & Surname
 email: foo@bar.com
-cellphone: 0721234567
+cellphone: "0721234567"
 website: https://example.com
 skillset: python javascript php mysql etc
 github-handle: foo
