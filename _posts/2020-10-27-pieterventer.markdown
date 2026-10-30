@@ -11,7 +11,7 @@ skillset: Node, Javascript, React, GraphQL, Flutter, React Native
 github-handle: cyrus-za
 zatech-handle: pieter
 zatech-link: https://zatech.slack.com/archives/D4JNL8Q3W
-twitter-handle: VentusCyrus
+twitter-handle: PieterVenterX
 linkedin-handle: pventer1
 ---
 
